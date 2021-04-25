@@ -1,0 +1,16 @@
+C:\Users\suzuk\projects\nestedrepetitiontask5\bin\Debug\net5.0\nestedrepetitiontask5.exe
+C:\Users\suzuk\projects\nestedrepetitiontask5\bin\Debug\net5.0\nestedrepetitiontask5.deps.json
+C:\Users\suzuk\projects\nestedrepetitiontask5\bin\Debug\net5.0\nestedrepetitiontask5.runtimeconfig.json
+C:\Users\suzuk\projects\nestedrepetitiontask5\bin\Debug\net5.0\nestedrepetitiontask5.runtimeconfig.dev.json
+C:\Users\suzuk\projects\nestedrepetitiontask5\bin\Debug\net5.0\nestedrepetitiontask5.dll
+C:\Users\suzuk\projects\nestedrepetitiontask5\bin\Debug\net5.0\ref\nestedrepetitiontask5.dll
+C:\Users\suzuk\projects\nestedrepetitiontask5\bin\Debug\net5.0\nestedrepetitiontask5.pdb
+C:\Users\suzuk\projects\nestedrepetitiontask5\obj\Debug\net5.0\nestedrepetitiontask5.csprojAssemblyReference.cache
+C:\Users\suzuk\projects\nestedrepetitiontask5\obj\Debug\net5.0\nestedrepetitiontask5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suzuk\projects\nestedrepetitiontask5\obj\Debug\net5.0\nestedrepetitiontask5.AssemblyInfoInputs.cache
+C:\Users\suzuk\projects\nestedrepetitiontask5\obj\Debug\net5.0\nestedrepetitiontask5.AssemblyInfo.cs
+C:\Users\suzuk\projects\nestedrepetitiontask5\obj\Debug\net5.0\nestedrepetitiontask5.csproj.CoreCompileInputs.cache
+C:\Users\suzuk\projects\nestedrepetitiontask5\obj\Debug\net5.0\nestedrepetitiontask5.dll
+C:\Users\suzuk\projects\nestedrepetitiontask5\obj\Debug\net5.0\ref\nestedrepetitiontask5.dll
+C:\Users\suzuk\projects\nestedrepetitiontask5\obj\Debug\net5.0\nestedrepetitiontask5.pdb
+C:\Users\suzuk\projects\nestedrepetitiontask5\obj\Debug\net5.0\nestedrepetitiontask5.genruntimeconfig.cache
